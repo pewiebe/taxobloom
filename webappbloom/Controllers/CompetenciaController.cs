@@ -1,8 +1,9 @@
 using Microsoft.AspNetCore.Mvc;
 
-public class HomeController : Controller{
+public class CompetenciaController : Controller{
 
     public IActionResult Index(){
-        return View();
+        return View(); 
     }
+
 }

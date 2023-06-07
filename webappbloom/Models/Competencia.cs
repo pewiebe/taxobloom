@@ -1,3 +1,5 @@
+namespace WebAppBloom.models;
+
 public class Competencia{
 
     public int Id { get; set; }

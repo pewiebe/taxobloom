@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
+namespace WebAppBloom.Controllers;
 public class HomeController : Controller{
 
     public IActionResult Index(){
